@@ -10,7 +10,7 @@
     <issue>https://github.com/kiot-innovations/cordova-plugin-esptouch-smartconfig/issues</issue>
 
     <js-module name="espTouchSmartconfig" src="www/espTouchSmartconfig.js">
-        <clobbers target="espTouchSmartconfig"/>
+        <clobbers target="window.espTouchSmartconfig"/>
     </js-module>
 <!-- 	android platform -->
     <platform name="android">
