@@ -1,5 +1,5 @@
 # To add this repository as dependecy
-npm install cordova-plugin-wifiwizard2@git+https://github.com/RajHirani/cordova-plugin-esptouch-smartconfig.git
+npm install cordova-plugin-esptouch-smartconfig@git+https://github.com/RajHirani/cordova-plugin-esptouch-smartconfig.git
 
 # cordova-plugin-esptouch-smartconfig
 A cordova plugin for sending wifi configurations to esp8266 and esp32 based devices using [Espressif Esptouch protocol](https://www.espressif.com/en/products/software/esp-touch/overview).
